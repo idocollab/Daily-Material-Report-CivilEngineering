@@ -1,0 +1,3 @@
+Date,WorkType,Location,CementBags,Sand-m3,Aggregate-m3,CementCost,SandCost,AggregateCost,TotalCost
+2025:12:16,Foundation,F1-F2,30,425.35,52.369,13500,765630.0,83790.4,862920.4
+2025:12:16,FoundationWork,F1-F2,19,14.465,23.4562,8550,26037.0,37529.92,72116.92
