@@ -1,6 +1,7 @@
 # Daily Site Material Logger
 
 This repository contains Python scripts created for **learning, revision, and structured practice** while modeling a simple site engineering workflow.
+Screenshots are available for clarification.
 
 ## Scripts
 
@@ -20,6 +21,7 @@ This repository contains Python scripts created for **learning, revision, and st
 ## Notes
 - Both scripts are structured for learning and experience, **not production-ready**
 - Uses classes and basic modules to practice OOP, CSV handling, and structured problem-solving
+
 
 **Author:** Shivam Yadav   
 **Email:** shivampy.dev@gmail.com
