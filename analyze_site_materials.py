@@ -45,8 +45,8 @@ class  Analyzer:
         print(f"Total Aggregate Cost  :NPR.{self.total_aggregate_cost:.4f}")
         print(f"Total Sand Cost       :NPR.{self.total_sand_cost:.4f}")
         print("-"*45)
-        print(f"Total Site Cost       :{self.total_cost:.4f}")
-        print(f"Average Cost Per Day  :{self.average:.4f}")
+        print(f"Total Site Cost       :NPR.{self.total_cost:.4f}")
+        print(f"Average Cost Per Day  :NPR.{self.average:.4f}")
         print("-"*45)
 
 def read_csv(file="data.csv"):       #csv reader   
