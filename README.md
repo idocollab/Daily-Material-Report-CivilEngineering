@@ -21,6 +21,5 @@ This repository contains Python scripts created for **learning, revision, and st
 - Both scripts are structured for learning and experience, **not production-ready**
 - Uses classes and basic modules to practice OOP, CSV handling, and structured problem-solving
 
-**Author:** Shivam Yadav  
-**Instagram:** @idocollab  
+**Author:** Shivam Yadav   
 **Email:** shivampy.dev@gmail.com
